@@ -1,7 +1,7 @@
 
 # SMS Ad or Expenditure Classifier
 
-It classifies a given message as either an ad or an SMS of expenditure using Random Forest Classifier.
+It classifies if a given message as either an ad(0) or an SMS of expenditure(1) using Random Forest Classifier.
 
 Libraries uses
 + sklearn
